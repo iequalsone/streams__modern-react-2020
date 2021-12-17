@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Test Title 123",
+      "description": "3Test Description 12",
+      "id": 13
+    },
+    {
+      "title": "A new stream",
+      "description": "A new description",
+      "userId": "101860793320165516348",
+      "id": 14
+    },
+    {
+      "title": "Yeet Title",
+      "description": "Yeet Description",
+      "userId": "101860793320165516348",
+      "id": 15
+    }
+  ]
+}
